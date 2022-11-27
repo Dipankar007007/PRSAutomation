@@ -3,3 +3,8 @@
   <Identification Name="UserName" Xpath="//*[@Name='UserName']"/>
   <Identification Name="Password" Xpath="//*[@Name='Password']"/>
 </Component>
+
+<Component Name="PRS.Files">
+  <Identification Name="FileName" Xpath="//*[@Name='fileName']"/>
+  <Identification Name="FileSize" Xpath="//*[@Name='fileSize']"/>
+</Component>
