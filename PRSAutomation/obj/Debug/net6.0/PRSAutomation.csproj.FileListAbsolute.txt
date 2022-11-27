@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\obj\Debug\net6.0\PRSAutomation.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\obj\Debug\net6.0\PRSAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\obj\Debug\net6.0\PRSAutomation.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\obj\Debug\net6.0\PRSAutomation.AssemblyInfo.cs
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\obj\Debug\net6.0\PRSAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\bin\Debug\net6.0\PRSAutomation.exe
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\bin\Debug\net6.0\PRSAutomation.deps.json
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\bin\Debug\net6.0\PRSAutomation.runtimeconfig.json
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\bin\Debug\net6.0\PRSAutomation.dll
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\bin\Debug\net6.0\PRSAutomation.pdb
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\obj\Debug\net6.0\PRSAutomation.dll
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\obj\Debug\net6.0\refint\PRSAutomation.dll
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\obj\Debug\net6.0\PRSAutomation.pdb
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\obj\Debug\net6.0\PRSAutomation.genruntimeconfig.cache
+C:\Users\Asus\source\repos\PRSAutomation\PRSAutomation\obj\Debug\net6.0\ref\PRSAutomation.dll
